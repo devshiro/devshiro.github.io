@@ -1,0 +1,13 @@
+title: DevShiro's Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Mind dump and photos I made
+domain: devshiro.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://devshiro.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  devshiro
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
